@@ -1,0 +1,50 @@
+h1 {
+    color: #b03060;
+	font-size: 40px;
+	font-family: Didot, "Didot LT STD";
+}
+
+h2 {
+	color: #de5285;
+	font-size: 27px;
+	font-family: Didot, "Didot LT STD";
+}
+
+h3 {
+	color: #f56991;
+	font-size: 21px;
+	font-family: Didot, "Didot LT STD";
+}
+h4 {
+	color: #d7837f;
+	font-size: 18px;
+	font-family: Didot, "Didot LT STD";
+	
+}
+
+body {
+	background-color: #f4c2c2;
+	color: #202020;
+	font-family: Didot, "Didot LT STD";
+}
+
+
+a:link {
+  color: #ab274f;
+	text-decoration: none;
+}
+
+a:visited {
+  color: #a95c68;
+	text-decoration: none;
+}
+
+a:hover {
+  color: #722f37;
+	text-decoration: none;
+}
+
+a:active {
+  color: #e75480;
+	text-decoration: none;
+}
